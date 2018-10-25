@@ -1,4 +1,4 @@
-public class Git {
+public class AreaCalculator {
     public static void main(String [] args){
         double x = area(8.5);
         System.out.println(x);
